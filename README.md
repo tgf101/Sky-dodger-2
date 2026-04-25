@@ -103,7 +103,11 @@ Game over system
 Retry system
 Start screen system 
 
-# Meeting 4
+# Meeting 4 (Sprint 2)
 
 Completed: 
+Level system 
+Life power-up
+Pause system
 
+# Burndown chart 
