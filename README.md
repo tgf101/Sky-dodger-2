@@ -114,3 +114,8 @@ Pause system
 
 <img width="734" height="605" alt="Screenshot 2026-04-25 at 21 35 58" src="https://github.com/user-attachments/assets/fb8d18b0-a6df-4592-a419-159a2c247d98" />
 
+# Test plan 
+
+<img width="645" height="180" alt="Screenshot 2026-04-25 at 21 45 52" src="https://github.com/user-attachments/assets/f1a7a412-7c70-4dd2-9943-d78289f84d31" />
+
+
