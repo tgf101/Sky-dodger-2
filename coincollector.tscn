@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cug34x2sayq13"]
+
+[ext_resource type="Script" uid="uid://cub8r7ec8m8ce" path="res://scripts/coincollector.gd" id="1_gqxlx"]
+
+[node name="coincollector" type="Node" unique_id=1342575245]
+script = ExtResource("1_gqxlx")
