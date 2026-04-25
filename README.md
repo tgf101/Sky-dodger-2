@@ -111,3 +111,6 @@ Life power-up
 Pause system
 
 # Burndown chart 
+
+<img width="734" height="605" alt="Screenshot 2026-04-25 at 21 35 58" src="https://github.com/user-attachments/assets/fb8d18b0-a6df-4592-a419-159a2c247d98" />
+
