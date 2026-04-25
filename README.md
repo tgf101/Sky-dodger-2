@@ -135,3 +135,15 @@ One key challenge was getting the pause menu to work. Originally it was cpnnecte
 
 in conclusion, this project successfuly schieved its objectives by implementing a functional 2d platformer game. 
 
+# User controls
+
+Move right: Right arrow
+Move left: Left arrow
+Jump: Spacebar
+
+How to play: 
+
+Avoid hazards 
+Collect coins to increase score
+Collect hearts to increase life
+Progress through levels
