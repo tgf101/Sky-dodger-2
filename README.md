@@ -2,22 +2,20 @@
 
 Sky Dodger is a 2D platformer game developed using the Godot game engine and GDScript. In this game, the player controls a character that moves through platforms while collecting coins, powerups and avoiding hazards. 
 
-# Gameplay
-The main goal of the game is to:
+This document outlines the updated design, development and implementation (sprint 2) of the game.
+key improvements included:
 
-Collect coins to increase your score
+More levels
+Life power up system
+Main menu interface
+Sound graphics
 
-Collect powerups to gain a life
-
-Avoid obstacles that can end the game
-
-Stay alive for as long as possible
 
 # Story 1
-As a player, I want to be able to move my character left and right so that i can avoid obstacles
+As a player, I want to be able to move left and right so that i can avoid hazards
 
 # Story 2
-As a player, I want to be able to jump so that i can collect items and avoid hazards
+As a player, I want to be able to jump so that i can reach platforms and collect items 
 
 # Story 3
 As a player, I want to be able to collect items to increase my score
@@ -27,6 +25,7 @@ As a player, I want to collect powerups to increrase my life
 
 # User requirements 
 
+<img width="639" height="282" alt="Screenshot 2026-04-25 at 19 21 27" src="https://github.com/user-attachments/assets/2ca0e93d-418f-4108-9299-5bcea36e27fb" />
 
 
 
