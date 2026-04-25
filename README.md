@@ -118,4 +118,20 @@ Pause system
 
 <img width="645" height="180" alt="Screenshot 2026-04-25 at 21 45 52" src="https://github.com/user-attachments/assets/f1a7a412-7c70-4dd2-9943-d78289f84d31" />
 
+# Project review
+
+In the initial game, there was a single level with basic coin system, start game screen, hazard collision, game over button, and retry button.
+
+Final version includes:
+Multiple levels
+Power-ups
+Pause system
+
+# Reflection 
+
+One key challenge was getting the pause menu to work. Originally it was cpnnected to the Canvaslayer with labels which did not work. This was resolved by creating a new scene and signals had to be made along with coding it to connect to the main scene. Throughout this project i have improved my knowledge in signals, scene management, and debugging. 
+
+# Conclusion 
+
+in conclusion, this project successfuly schieved its objectives by implementing a functional 2d platformer game. 
 
