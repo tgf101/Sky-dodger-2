@@ -27,5 +27,8 @@ As a player, I want to collect powerups to increrase my life
 
 <img width="639" height="282" alt="Screenshot 2026-04-25 at 19 21 27" src="https://github.com/user-attachments/assets/2ca0e93d-418f-4108-9299-5bcea36e27fb" />
 
+# Updated Scrum backlog
+
+<img width="639" height="508" alt="Screenshot 2026-04-25 at 19 29 55" src="https://github.com/user-attachments/assets/2b4112df-4422-484d-bf02-db29d55730f5" />
 
 
