@@ -31,4 +31,31 @@ As a player, I want to collect powerups to increrase my life
 
 <img width="639" height="508" alt="Screenshot 2026-04-25 at 19 29 55" src="https://github.com/user-attachments/assets/2b4112df-4422-484d-bf02-db29d55730f5" />
 
+# Design and development 
+
+# Game overview
+
+This game is designed to have a balance of hazards and a reward system where players must balance colelcting coins and avoid hazards. 
+
+Core mechanics:
+
+Movement and jumping
+Collision deteciton
+Score tracking
+Lives system
+Level progression
+
+# Level system
+
+The game was expanded into multiple levels using seperate scenes in Godot. 
+The level transitions were handled using get_tree().change_scene_to_file("res://level2.tscn")
+
+# Life Power-Up System
+A heart item was implemented using Area2d node. 
+
+# Functionality:
+Detect collision with player
+Increase player lives
+Removes power-up from scene
+
 
