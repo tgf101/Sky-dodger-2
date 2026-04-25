@@ -58,4 +58,52 @@ Detect collision with player
 Increase player lives
 Removes power-up from scene
 
+# Pause menu system
+
+The pause menu was created using ui nodes (Canvaslayer and Button). 
+
+# Features:
+Resume game 
+Quit 
+
+# Updated game loop 
+
+Player state loop:
+
+Start game screen - Gameplay - Collect items - Avoid hazards - Gain/Lose lives - Level progression - Game over - Retry
+
+Motivation loop:
+
+Challenge - Avoid hazards, collect rewards (coins and heart power-up), continue playing.
+
+# Development review meetings
+
+# Meeting 1:
+
+Completed: 
+Game idea 
+Environment design 
+
+Challenges: 
+Learning GDScript
+
+# Meeting 2:
+
+Completed: 
+Hazards implemented 
+Collision detection 
+Score system
+Coin counter system
+
+# Meeting 3
+
+Completed:
+Add lives system 
+Game over system 
+Retry system
+Start screen system 
+
+# Meeting 4
+
+Completed: 
 
